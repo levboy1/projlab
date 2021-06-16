@@ -1,7 +1,7 @@
 # projlab
 Szoftver projekt laboratórium (BMEVIIIAB06 - 4. szemeszter)
 
-Feladat
+Feladatleírás:
 Aszteroidabányászat
 
 (utolsó módosítás: 2021-03-24)
